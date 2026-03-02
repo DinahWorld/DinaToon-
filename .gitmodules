@@ -1,6 +1,8 @@
 [submodule "Dinatoon-Angular"]
 	path = Dinatoon-Angular
 	url = git@github.com:DinahWorld/Dinatoon-Angular.git
+	branch = main
 [submodule "Dinatoon-SpringBoot"]
 	path = Dinatoon-SpringBoot
 	url = git@github.com:DinahWorld/Dinatoon-SpringBoot.git
+	branch = main
